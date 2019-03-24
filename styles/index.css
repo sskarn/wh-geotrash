@@ -14,3 +14,10 @@ div{
 #instagram{
     max-width: 4%;
 }
+
+footer {
+    background-color: #409640;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+}
