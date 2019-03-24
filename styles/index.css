@@ -2,13 +2,21 @@ body{
 	background-color: #90EE90;
 }
 
+header {
+    background-color: #409640;
+    display: flex;
+    height: 20vh;
+    padding: 2vh;
+}
+
+header #logo{
+	max-width: 25%;
+    text-align: left;
+}
+
 div{
 	text-align: center;
 	font-family: 'Roboto Slab', serif;
-}
-
-#logo{
-	max-width: 20%;
 }
 
 #instagram{
