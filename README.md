@@ -1,0 +1,1 @@
+Welcome to GeoTrash, an app that uses GPS to log and locate trash that can be cleaned up by its users.
