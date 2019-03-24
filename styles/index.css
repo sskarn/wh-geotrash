@@ -7,16 +7,22 @@ header {
     display: flex;
     height: 20vh;
     padding: 2vh;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+    font-size: 25px;
 }
 
 header #logo{
-	max-width: 25%;
-    text-align: left;
+	max-width: 50%;
 }
 
 div{
 	text-align: center;
 	font-family: 'Roboto Slab', serif;
+}
+
+div p {
+    text-align: justify;
 }
 
 #instagram{
